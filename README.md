@@ -1,10 +1,10 @@
 # Lista de Desafíos TP 2
 
-#### [🔗 Ejercicio 1](https://github.com/osobuxs/Tp-1-Rolling-JS/tree/main/Ej-1#readme)
+#### [🔗 Ejercicio 1](https://github.com/osobuxs/TP-2-Rolling/tree/main/Ej-1#readme)
 
 #### [🔗 Ejercicio 2](https://github.com/osobuxs/Tp-2-Rolling-JS/tree/main/Ej-2#readme)
 
-#### [🔗 Ejercicio 3](https://github.com/osobuxs/Tp-3-Rolling-JS/tree/main/Ej-3#readme)
+#### [🔗 Ejercicio 3](https://github.com/osobuxs/Tp-2-Rolling-JS/tree/main/Ej-3#readme)
 
 <!-- #### [🔗 Ejercicio 4](https://github.com/osobuxs/Tp-4-Rolling-JS/tree/main/Ej-4#readme)
 
