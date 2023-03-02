@@ -12,4 +12,6 @@
 
 #### [🔗 Ejercicio 6](https://github.com/osobuxs/TP-2-Rolling/tree/main/Ej-6#readme)
 
+#### [🔗 Ejercicio 6](https://github.com/osobuxs/TP-2-Rolling/tree/main/Ej-7#readme)
+
 
